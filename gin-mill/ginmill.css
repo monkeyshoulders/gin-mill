@@ -1,0 +1,245 @@
+/*
+font-family: 'Shrikhand', cursive;
+font-family: 'Bangers', cursive;
+font-family: 'Special Elite', cursive;
+font-family: 'IM Fell English SC', serif;
+*/
+
+
+body {
+  width: 100%;
+}
+/* ****************navbar******************** */
+
+#navbar {
+  margin-bottom: 0;
+  background-color: rgba(69, 69, 69, 0.94);
+}
+
+.logo-nav {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+#tel {
+  color: rgb(208, 203, 203)
+}
+
+.fa-phone {
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.hours {
+  padding-top: 20px;
+  padding-left: 10px;
+  color: rgb(136, 136, 136);
+}
+
+.fa-facebook-official {
+  margin-top: 15px;
+  margin-right: 25px;
+  color: rgb(222, 222, 222);
+}
+
+.fa-facebook-official:hover {
+  color: rgb(104, 122, 245);
+}
+
+#twitter {
+  margin-top: 15px;
+  margin-right: 25px;
+  color: rgb(222, 222, 222);
+}
+
+#twitter:hover {
+  color: rgb(104, 122, 245);
+}
+
+
+/***************background title*********************/
+
+.headerwrap {
+  background: linear-gradient( rgba(20, 20, 20, .6), rgba(20, 20, 20, .6)), url('images/bg1.jpg');
+  margin-top: 0;
+  min-height: 720px;
+}
+
+#title {
+  margin-top: 140px;
+  padding-top: 110px;
+  font-size: 10em;
+  color: rgb(171, 171, 171);
+  font-family: 'IM Fell English SC', serif;
+  /*font-family: 'Alfa Slab One', cursive;*/
+}
+
+.southend {
+  font-family: 'IM Fell English SC', serif;
+  font-size: 6em;
+  color: rgb(171, 171, 171);
+  margin-top: -60px;
+}
+
+.est {
+  font-family: 'IM Fell English SC', serif;
+  font-size: 4em;
+  color: rgb(171, 171, 171);
+  margin-top: -40px;
+}
+
+/* ****************Specials****************** */
+
+#special {
+  background-color: rgb(57, 73, 53);
+  height: 700px;
+  color: white;
+  padding-top: 3.5em;
+
+}
+
+#special h1 {
+  font-size: 75px;
+  font-family: 'Special Elite', cursive;
+}
+
+#special h2 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 35px;
+}
+
+#special p {
+  font-family: 'Bangers', cursive;
+  font-size: 25px;
+}
+
+#spec-features {
+  padding-top: 200px;
+}
+
+#schedule {
+  background: linear-gradient( rgba(20, 20, 20, .8), rgba(20, 20, 20, .8)), url('images/guitar.jpg');
+  color: white;
+  height: 700px;
+
+
+}
+
+#schedule h1 {
+  font-size: 90px;
+  font-family: 'Special Elite', cursive;
+  padding-top: 30px;
+
+}
+
+#events-3 {
+  padding-top: 2.5em;
+  /*font-size: 3em;*/
+  font-family: 'Bangers', cursive;
+
+}
+
+#events-3 h3 {
+  font-size: 35px;
+}
+
+#events-3 h2 {
+  font-family: 'Shrikhand', cursive;
+  font-size: 40px;
+  color: rgb(227, 227, 227)
+}
+
+#schedule-li {
+  font-size: 25px;
+}
+
+#menu {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  background: linear-gradient( rgba(20, 20, 20, .8), rgba(20, 20, 20, .8)), url('images/wall.jpg');
+  width: 100%;
+  color: white;
+
+}
+
+#menu h1 {
+  font-size: 75px;
+  padding-bottom: 20px;
+  font-family: 'Special Elite', cursive;
+
+
+}
+
+#myCarousel {
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+#caro {
+  background-color: rgb(50, 50, 50);
+
+}
+
+#well-container {
+  background-color: rgb(48, 68, 49);
+  padding-top: 20px;
+
+}
+
+#contact {
+  background: linear-gradient( rgba(20, 20, 20, .6), rgba(20, 20, 20, .6)), url('images/barshot.jpg');
+
+}
+
+.contact-info h1 {
+  font-family: 'Special Elite', cursive;
+  font-size: 60px;
+}
+
+#info {
+  color: white;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.carousel-control {
+  padding-top:10%;
+  width:5%;
+}
+
+
+.footer-bottom {
+    background-color: #303030;
+    min-height: 30px;
+    width: 100%;
+}
+.copyright {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+}
+.design {
+    color: #fff;
+    line-height: 30px;
+    min-height: 30px;
+    padding: 7px 0;
+    text-align: right;
+}
+.design a {
+    color: #fff;
+}
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(http://fonts.googleapis.com/css?family=Gudea);
+.footer1 {
+    background: #fff url("../images/footer/footer-bg.png") repeat scroll left top;
+	padding-top: 40px;
+	padding-right: 0;
+	padding-bottom: 20px;
+	padding-left: 0;/*	border-top-width: 4px;
+	border-top-style: solid;
+	border-top-color: #003;*/
+}
